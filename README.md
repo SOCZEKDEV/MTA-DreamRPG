@@ -16,7 +16,6 @@ Gamemod RPG do Multi Theft Auto, napisany w języku Lua.
 - Enonek
 - Zbigniew "Zbyk.gg" Płachciński
 - Chojnas
-- Soczek
   I inni 
 # LICENCJA
 Warunkiem wykorzystania tego kodu jest NIE TWORZENIE serwera o nazwie DreamRPG. Wykorzystaj go swobodnie, ale swoje dzieło nazwij oryginalnie.
